@@ -1,4 +1,6 @@
 # 아이제주 AI JEJU
+https://www.ijeju.shop/
+<br>
 <img width="300" alt="transparent_logo" src="https://github.com/KAKAO-TOUR-API-CONTEST/AIJEJU/assets/75514808/ba48b892-a53a-4106-aac5-5c66ca5f5f25">
 <img width="300" alt="transparent_logo" src="https://github.com/KAKAO-TOUR-API-CONTEST/AIJEJU/assets/75514808/8a2d7a23-1fe3-4720-bddd-5173f09c16ce">
 
