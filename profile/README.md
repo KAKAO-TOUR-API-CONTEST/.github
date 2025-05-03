@@ -5,7 +5,7 @@
 > 사용자들이 ***아이동반 제주여행***을 '잘' 계획할 수 있도록,
 > 노키즈존 여부, 유모차 접근성, 놀이방 ··· 등 제주여행을 계획할 때 필요한 정보와 다양한 기능들을 제공하는 웹서비스입니다.
 
-**웹서비스 바로가기** [https://www.ijeju.shop/](https://www.ijeju.shop/) </br>
+
 
 ![Myjeju-Start](https://github.com/user-attachments/assets/55c54059-515b-470f-b1a2-3cae93c3a5fd)
 
